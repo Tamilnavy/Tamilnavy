@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamilarasan J</h1>
-<h3 align="center">MERN Stack Developer | AI Enthusiast | Final Year CSE Student</h3>
+<h3 align="center">Web Developer | AI Enthusiast | Final Year CSE Student</h3>
 
 ---
 
