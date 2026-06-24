@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 🎓 Final-year Computer Science Engineering student  
-💻 MERN Stack Developer passionate about building scalable web applications  
+💻 Full Stack Developer passionate about building scalable web applications  
 🤖 Experienced in AI-based real-time computer vision systems  
 🔐 Interested in secure application architecture & authentication systems  
 📍 Tamil Nadu, India  
